@@ -32,3 +32,10 @@ sudo systemctl start jenkins
 ```
 sudo systemctl status jenkins
 ```
+
+## Step-6 : Open jenkins server in browser using VM public ip ##
+
+```
+http://public-ip:8080/
+Note: here public-ip is your actual public ip address of your ec2 instance.
+```
