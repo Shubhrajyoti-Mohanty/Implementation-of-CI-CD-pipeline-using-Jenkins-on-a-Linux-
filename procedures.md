@@ -39,3 +39,7 @@ sudo systemctl status jenkins
 http://public-ip:8080/
 Note: here public-ip is your actual public ip address of your ec2 instance.
 ```
+## Step-7 : Know jenkins admin password and Copy that ##
+```
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+```
