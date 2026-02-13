@@ -43,3 +43,4 @@ Note: here public-ip is your actual public ip address of your ec2 instance.
 ```
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
+## Step-8 : Create Admin Account & Install Required Plugins in Jenkins ##
