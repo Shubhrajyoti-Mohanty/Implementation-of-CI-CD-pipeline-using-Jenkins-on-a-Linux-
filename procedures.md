@@ -27,3 +27,8 @@ sudo apt install jenkins -y
 sudo systemctl enable jenkins
 sudo systemctl start jenkins
 ```
+## Step-5 : Verify Jenkins ##
+
+```
+sudo systemctl status jenkins
+```
